@@ -1,0 +1,11 @@
+		a:link{color:white;
+		text-decoration:none;}
+		a:visited{color:white;}
+		a:hover{color:grey;
+		font-weight:bold;}
+		a:active{color:green;}
+		img{
+		width:441px;
+		height:250px;
+		}
+		body{background-image:url(typerbackjpg.jpg);
